@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawAndControl", "DrawAndControl\DrawAndControl.csproj", "{1046C2DE-2D1C-4824-803C-2B109813DF5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1046C2DE-2D1C-4824-803C-2B109813DF5A}.Debug|x86.ActiveCfg = Debug|x86
+		{1046C2DE-2D1C-4824-803C-2B109813DF5A}.Debug|x86.Build.0 = Debug|x86
+		{1046C2DE-2D1C-4824-803C-2B109813DF5A}.Release|x86.ActiveCfg = Release|x86
+		{1046C2DE-2D1C-4824-803C-2B109813DF5A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F816688-73C4-46B7-B729-18B0016B9F90}
+	EndGlobalSection
+EndGlobal

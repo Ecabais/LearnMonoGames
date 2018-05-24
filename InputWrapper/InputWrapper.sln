@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputWrapper", "InputWrapper\InputWrapper.csproj", "{EB3749A8-E426-4209-9E2E-76DC38FD7B5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB3749A8-E426-4209-9E2E-76DC38FD7B5C}.Debug|x86.ActiveCfg = Debug|x86
+		{EB3749A8-E426-4209-9E2E-76DC38FD7B5C}.Debug|x86.Build.0 = Debug|x86
+		{EB3749A8-E426-4209-9E2E-76DC38FD7B5C}.Release|x86.ActiveCfg = Release|x86
+		{EB3749A8-E426-4209-9E2E-76DC38FD7B5C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C0A587F-DF85-41C4-AC0A-26A5FE51E90C}
+	EndGlobalSection
+EndGlobal
