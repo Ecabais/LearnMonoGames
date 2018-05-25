@@ -6,7 +6,9 @@
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{0C18EB5F-F219-4679-85F0-E1E632B4B272}</ProjectGuid>
+
+    <ProjectGuid>{F71031F4-5A68-4ADE-A312-B5993668085B}</ProjectGuid>
+	
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>GameWindowSize</RootNamespace>
@@ -42,6 +44,8 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Game1.cs" />
+
+    <Compile Include="InputWrapper.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
