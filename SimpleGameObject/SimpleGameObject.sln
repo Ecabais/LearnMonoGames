@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleGameObject", "SimpleGameObject\SimpleGameObject.csproj", "{EA0CE4CD-3EAA-4023-B85A-4DAA165B4365}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA0CE4CD-3EAA-4023-B85A-4DAA165B4365}.Debug|x86.ActiveCfg = Debug|x86
+		{EA0CE4CD-3EAA-4023-B85A-4DAA165B4365}.Debug|x86.Build.0 = Debug|x86
+		{EA0CE4CD-3EAA-4023-B85A-4DAA165B4365}.Release|x86.ActiveCfg = Release|x86
+		{EA0CE4CD-3EAA-4023-B85A-4DAA165B4365}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12E1070D-ED65-4498-BC96-54278E6FD506}
+	EndGlobalSection
+EndGlobal
